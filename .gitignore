@@ -1,0 +1,8 @@
+# Ignore the data folder
+data/
+
+# Ignore the model_params folder
+model_params/
+
+# Ignore the virtual environment folder
+env/
